@@ -26,7 +26,7 @@ A real-time cryptocurrency price tracker built with React, Redux Toolkit, and Bo
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/ShivamG1979/Crypto
 cd Crypto
 ```
 
