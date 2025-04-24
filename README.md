@@ -3,6 +3,7 @@
 
 A real-time cryptocurrency price tracker built with React, Redux Toolkit, and Bootstrap. This application simulates WebSocket connections to provide live updates of cryptocurrency prices and related data.
 
+DEMO Live- https://crypto-beta-seven.vercel.app/
 
 ## Features
 
